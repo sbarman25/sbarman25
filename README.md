@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - I only work on private repos, so not much stuff in here.
 
-- Single handedly designed and wrote the backend system of Exmplr (product) at my current job. 
+- Single handedly architected, designed, and wrote the backend system of Exmplr (product) at my current job. 
 
 - Created [ChatMM](https://chat.nkubed.io/). You can explore and tinker with multi-modal models. Be sure to check it out!
