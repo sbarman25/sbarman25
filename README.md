@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sbarman25/sbarman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Welcome to my GitHub page!
+
+- I'm a Software Engineer with a Data Science background. I have worked mostly as individual contributer with small startups. 
+
+- I only work on private repos, so not much stuff in here.
+
+- Created [ChatMM](https://chat.nkubed.io/). You can explore and tinker with multi-modal models. Be sure to check it out!
