@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - I'm a Data Professional with a mixed (Software Engineering/Data Science) background. I have worked mostly as individual contributer with small startups.
 
-- I only work on private repos, so not much stuff in here.
+- I mostly work on private repos, so not much stuff in here.
 
 - Single handedly architected, designed, and wrote the backend system of Exmplr (product). 
 
