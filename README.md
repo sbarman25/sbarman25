@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 the distribution of files across repos is a better metric than size as it inflates towards jupyter notebook
 -->
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarman25&layout=pie&theme=dark&size_weight=0&count_weight=1&langs_count=10"/>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarman25&layout=pie&theme=dark&size_weight=0&count_weight=1&langs_count=10"/>
 </a>
