@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - Single handedly architected, designed, and wrote the backend system of Exmplr (product). 
 
-- Created [ChatMM](https://chat.nkubed.io/). Converse with and explore multi-modal machine learning models. Be sure to check it out!
+- Created [ChatMM](https://chat.nkubed.io/). Converse and explore multi-modal machine learning models. Be sure to check it out!
 
 ---
 
