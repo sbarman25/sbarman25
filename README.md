@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - I mostly work on private repos, so not much stuff in here.
 
-- Single handedly architected, designed, and wrote the backend system of Exmplr (a data analysis solution for clinical trials). 
+- Single handedly architected, designed, and wrote the backend system of Exmplr (a data analysis for clinical trials). 
 
 - Created [ChatMM](https://chat.nkubed.io/). Converse and explore multi-modal machine learning models. Be sure to check it out!
 
