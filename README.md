@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 👋 Welcome to my GitHub page!
 
-- I'm a Data Professional with a mixed (Software Engineering/Data Science) background. I have worked mostly as individual contributer with small startups.
+- I'm a Data Professional with a mixed (Software Engineering/Data Science) background. My experience primarily lies with small startups.
 
 - I mostly work on private repos, so not much stuff in here.
 
