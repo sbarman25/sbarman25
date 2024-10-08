@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - I mostly work on private repos, so not much stuff in here.
 
-- Single handedly architected, designed, and wrote the backend system of a data analytics software on clinical trials. 
+- Previously, built a data analytics software on clinical trials. Played a pivotal role in its architecture, data engineering, and machine learning efforts.
 
 - Created [ChatMM](https://chat.nkubed.io/). Converse and explore multi-modal machine learning models. Be sure to check it out!
 
