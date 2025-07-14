@@ -33,6 +33,6 @@ Hey, Welcome to my GitHub page!
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 the distribution of files across repos is a representative metric than size as it inflates towards jupyter notebook
 -->
-<a href="">
+<!--<a href="">
   <img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarman25&layout=pie&theme=dark&size_weight=0&count_weight=1&langs_count=10"/>
-</a>
+</a>-->
