@@ -36,4 +36,4 @@ the distribution of files across repos is a representative metric than size as i
 <!--<a href="">
   <img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarman25&layout=pie&theme=dark&size_weight=0&count_weight=1&langs_count=10"/>
 </a>-->
-[![Snehasish Barman profile views](https://u8views.com/api/v1/github/profiles/86601758/views/day-week-month-total-count.svg)](https://u8views.com/github/sbarman25)
+<!-- [![Snehasish Barman profile views](https://u8views.com/api/v1/github/profiles/xxxxxxxxx/views/day-week-month-total-count.svg)](https://u8views.com/github/sbarman25) -->
