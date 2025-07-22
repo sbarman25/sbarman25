@@ -27,8 +27,6 @@ Hey, Welcome to my GitHub page!
     - Just write tools as functions in pure python.
     - Auto generates schema that can be fed to llms.
 
----
-
 <!-- 
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 the distribution of files across repos is a representative metric than size as it inflates towards jupyter notebook
