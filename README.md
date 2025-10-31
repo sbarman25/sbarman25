@@ -21,7 +21,8 @@ Hey, Welcome to my GitHub page!
   - [Kodenames](https://kodenames.xerosum.dev/)
     - Play the classic party game **Codenames** alongside AI.   
   - [ChatMM](https://chat.nkubed.io/)
-    - Chat & interact with multi-modal machine learning models.
+    - System to chat with language, vision, and audio models.
+    - Supoorts built-in applications
   - [Toolserver](https://vimeo.com/1085782721)
     - Model Context Protocol based server that can be used either as a mcp server or as a python library.
     - Just write tools as functions in pure python.
