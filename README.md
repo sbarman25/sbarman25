@@ -22,7 +22,7 @@ Hey, Welcome to my GitHub page!
     - Play the classic party game **Codenames** alongside AI.   
   - [ChatMM](https://chat.nkubed.io/)
     - System to chat with language, vision, and audio models.
-    - Suports built-in applications
+    - Supports built-in applications
   - [Toolserver](https://vimeo.com/1085782721)
     - Model Context Protocol based server that can be used either as a mcp server or as a python library.
     - Just write tools as functions in pure python.
