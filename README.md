@@ -36,7 +36,7 @@ Besides my primary job, I also enjoy building on cool ideas.
 #### 🛠️ [Toolserver](https://vimeo.com/1085782721)
 **Model Context Protocol (MCP) based server & library.**
 - Write tools as pure Python functions.
-- Auto-generates schemas for LLMs.
+- Auto-generates tool schemas.
 - Can be used as a standalone MCP server or imported as a library.
 
 ---
