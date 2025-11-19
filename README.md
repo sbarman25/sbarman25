@@ -28,11 +28,6 @@ Besides my primary job, I also enjoy building on cool ideas.
 - Features AI players to challenge or team up with. Uses GPT and Gemini.
 - Written in Svelte 5. Architected in Cloudflare (stateless, caching, queues, databases, custom monitoring & analytics, security).
 
-#### 💬 [chatkit-svelte](https://www.npmjs.com/package/chatkit-svelte)
-**Unofficial Svelte 5 binding for OpenAI's ChatKit Web Component.**
-- Seamlessly integrate OpenAI's ChatKit into Svelte applications.
-- Fully typed with TypeScript support.
-
 #### 🤖 [ChatMM](https://chat.nkubed.io/)
 **A comprehensive system to chat with Language, Vision, and Audio models.**
 - Supports built-in applications and multi-modal interactions.
@@ -43,6 +38,15 @@ Besides my primary job, I also enjoy building on cool ideas.
 - Write tools as pure Python functions.
 - Auto-generates schemas for LLMs.
 - Can be used as a standalone MCP server or imported as a library.
+
+---
+
+### 📦 Libraries
+
+#### 💬 [chatkit-svelte](https://www.npmjs.com/package/chatkit-svelte)
+**Unofficial Svelte 5 binding for OpenAI's ChatKit Web Component.**
+- Seamlessly integrate OpenAI's ChatKit into Svelte applications.
+- Fully typed with TypeScript support.
 
 ---
 
