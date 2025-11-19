@@ -24,7 +24,8 @@ I mostly work on private repositories. Here are some of my personal works:
 #### 🕵️ [Kodenames](https://kodenames.xerosum.dev/)
 **Play the classic party game Codenames alongside AI.**
 - A modern web implementation of the popular board game.
-- Features AI players to challenge or team up with.
+- Features AI players to challenge or team up with. Uses GPT and Gemini.
+- Written in Svelte 5. Architected in Cloudflare (stateless, caching, queues, databases, custom monitoring & analytics, security).
 
 #### 💬 [chatkit-svelte](https://www.npmjs.com/package/chatkit-svelte)
 **Unofficial Svelte 5 binding for OpenAI's ChatKit Web Component.**
