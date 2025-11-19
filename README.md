@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hey, Welcome to my GitHub page!
 
-I mostly work on private repositories. Here are some of my personal works:
+I mostly work on private repositories. Besides my primary job with ML stuff, I enjoy building on cool ideas. Here are some of my personal works:
 
 ---
 
