@@ -22,7 +22,7 @@ Besides my primary job, I also enjoy building on cool ideas.
 
 ### 🚀 Featured Projects
 
-#### 🕵️ [Kodenames](https://kodenames.xerosum.dev/)
+#### 🕵️ [Kodenames](https://kodenames.realmofbits.dev/)
 **Play the classic party game Codenames alongside AI.**
 - A modern web implementation of the popular board game.
 - Features AI players to challenge or team up with. Uses GPT and Gemini.
