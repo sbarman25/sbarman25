@@ -28,7 +28,7 @@ Besides my primary job, I also enjoy building on cool ideas.
 - Features AI players to challenge or team up with. Uses GPT and Gemini.
 - Written in Svelte 5. Architected in Cloudflare (stateless, caching, queues, databases, custom monitoring & analytics, security).
 
-#### 🤖 [ChatMM](https://chat.nkubed.io/)
+#### 🤖 [ChatMM](https://chat.realmofbits.dev/)
 **A comprehensive system to chat with Language, Vision, and Audio models.**
 - Supports built-in applications and multi-modal interactions.
 - Designed for seamless integration of various AI modalities.
