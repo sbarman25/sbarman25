@@ -58,4 +58,6 @@ the distribution of files across repos is a representative metric than size as i
 </a>-->
 <!-- [![Snehasish Barman profile views](https://u8views.com/api/v1/github/profiles/xxxxxxxxx/views/day-week-month-total-count.svg)](https://u8views.com/github/sbarman25) -->
 
+<!--
 ![](https://komarev.com/ghpvc/?username=sbarman25&style=for-the-badge)
+-->
