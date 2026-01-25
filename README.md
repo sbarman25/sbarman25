@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hey, Welcome to my GitHub page!
 
 I mostly work on private repositories, so not many to share.  
-Besides my primary job, I also enjoy building on cool ideas.
+Some past projects I built and learned from:
 
 ---
 
@@ -24,7 +24,7 @@ Besides my primary job, I also enjoy building on cool ideas.
 
 #### 🕵️ [Kodenames](https://kodenames.realmofbits.dev/)
 **Play the classic party game Codenames alongside AI.**
-- A modern web implementation of the popular board game.
+- It's a modern web implementation of the popular board game.
 - Features AI players to challenge or team up with. Uses GPT and Gemini.
 - Written in Svelte 5. Architected in Cloudflare (stateless, caching, queues, databases, custom monitoring & analytics, security).
 
