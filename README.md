@@ -41,7 +41,7 @@ Some past projects I built and learned from:
 
 ---
 
-### 📦 Libraries
+### Libraries
 
 #### 💬 [chatkit-svelte](https://www.npmjs.com/package/chatkit-svelte)
 **Unofficial Svelte 5 binding for OpenAI's ChatKit Web Component.**
