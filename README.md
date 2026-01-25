@@ -20,7 +20,7 @@ Besides my primary job, I also enjoy building on cool ideas.
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 #### 🕵️ [Kodenames](https://kodenames.realmofbits.dev/)
 **Play the classic party game Codenames alongside AI.**
