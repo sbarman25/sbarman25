@@ -46,7 +46,6 @@ Some past projects I built and learned from:
 #### 💬 [chatkit-svelte](https://www.npmjs.com/package/chatkit-svelte)
 **Unofficial Svelte 5 binding for OpenAI's ChatKit Web Component.**
 - Seamlessly integrate OpenAI's ChatKit into Svelte applications.
-- Fully typed with TypeScript support.
 
 ---
 
