@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hey, Welcome to my GitHub page!
 
 I mostly work on private repositories, so not many to share.  
-Some past projects I built and learned from:
+Some past projects I built and learned from along the way:
 
 ---
 
