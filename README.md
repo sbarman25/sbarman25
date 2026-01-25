@@ -47,8 +47,6 @@ Some past projects I built and learned from along the way:
 **Unofficial Svelte 5 binding for OpenAI's ChatKit Web Component.**
 - Seamlessly integrate OpenAI's ChatKit into Svelte applications.
 
----
-
 <!-- 
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 the distribution of files across repos is a representative metric than size as it inflates towards jupyter notebook
